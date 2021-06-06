@@ -11,7 +11,7 @@ public class MethodBox {
 
 
     /**
-     * Performs a pause
+     * Performs a wait
      */
     public static void waitFor(int seconds) {
         try {
